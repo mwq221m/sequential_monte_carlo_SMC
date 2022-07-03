@@ -1,0 +1,2 @@
+# sequential_monte_carlo_SMC
+序贯蒙特卡洛法进行配电网风险评估的练习。算例采用李文沅书上的例子
